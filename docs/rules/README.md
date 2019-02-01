@@ -148,6 +148,7 @@ For example:
 | [vue/component-name-in-template-casing](./component-name-in-template-casing.md) | enforce specific casing for the component naming style in template | :wrench: |
 | [vue/eqeqeq](./eqeqeq.md) | require the use of `===` and `!==` | :wrench: |
 | [vue/key-spacing](./key-spacing.md) | enforce consistent spacing between keys and values in object literal properties | :wrench: |
+| [vue/keyword-spacing](./keyword-spacing.md) | enforce consistent spacing before and after keywords | :wrench: |
 | [vue/match-component-file-name](./match-component-file-name.md) | require component name property to match its file name |  |
 | [vue/no-restricted-syntax](./no-restricted-syntax.md) | disallow specified syntax |  |
 | [vue/object-curly-spacing](./object-curly-spacing.md) | enforce consistent spacing inside braces | :wrench: |
